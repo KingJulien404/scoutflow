@@ -1,5 +1,5 @@
 import React from "react";
-import nav from "../components/ui/Nav";
+import Nav from "../components/ui/nav";
 
 export default function Settings() {
   return (

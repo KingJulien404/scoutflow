@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Nav from "../components/ui/Nav";
+import Nav from "../components/ui/nav";
 
 type Player = {
   player: {

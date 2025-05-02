@@ -1,5 +1,6 @@
 import React from "react";
 import Nav from "../components/ui/nav";
+
 export default function Home() {
   return (
     <div className="bg-black text-white min-h-screen">
