@@ -19,7 +19,7 @@
       "typescript": "^5.8.3"
     },
     "exports": {
-      "./components/ui/Nav": "./src/components/ui/Nav.tsx"
+      "./components/ui/Nav": "./src/components/ui/nav.tsx"
     }
   }
   
