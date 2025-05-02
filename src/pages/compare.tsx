@@ -1,5 +1,5 @@
 import React from "react";
-import Nav from "../components/ui/nav";
+import { Nav } from "../components/ui/nav";
 
 export default function Compare() {
   return (
